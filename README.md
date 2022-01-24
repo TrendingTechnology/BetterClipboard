@@ -7,7 +7,7 @@ A "multiclipboards" script for an efficient way to improve the original clipboar
 
 Clone the repository:
 ```powershell
-git clone https://github.com/imeirewes/betterclipboard
+git clone https://github.com/iMeirewes/BetterClipboard
 ```
 
 Install the dependencies:
