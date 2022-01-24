@@ -36,4 +36,4 @@ If you wish to suggest a feature or an improvement please report it in the issue
 Feel free to fix bugs or add features on your own and submit as pull requests.
 
 ## License
-<a href="https://github.com/imeirewes/betterclipboard/blob/master/LICENSE"> AGPL-3.0 </a>
+<a href="https://github.com/iMeirewes/BetterClipboard/blob/main/LICENSE"> AGPL-3.0 </a>
